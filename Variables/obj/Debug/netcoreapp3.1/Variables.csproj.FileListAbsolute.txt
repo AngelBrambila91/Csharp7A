@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+E:\C#_Projects\C#7A\Csharp7A\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+E:\C#_Projects\C#7A\Csharp7A\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache

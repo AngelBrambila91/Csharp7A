@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+E:\C#_Projects\C#7A\Csharp7A\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+E:\C#_Projects\C#7A\Csharp7A\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
