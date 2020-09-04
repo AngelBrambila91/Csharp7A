@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.exe
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.deps.json
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.dll
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\bin\Debug\netcoreapp3.1\OutputConsole.pdb
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.dll
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.pdb
+E:\C#_Projects\C#7A\Csharp7A\OutputConsole\obj\Debug\netcoreapp3.1\OutputConsole.genruntimeconfig.cache

@@ -20,7 +20,6 @@ namespace Arrays
             }
 
             #region Check for nulls
-
                 var address = new Address();
                 address.Building = null;
                 address.Street = null;
