@@ -24,6 +24,8 @@ namespace OutputConsole
                 arg1: pricePerOreo * numberOfOreos
             );
             WriteLine(formatted);
+
+            string formatted2 = string.Format($"{numberOfOreos} Oreos cost{pricePerOreo}");
             #endregion
             
             #region Interpolated String Format
