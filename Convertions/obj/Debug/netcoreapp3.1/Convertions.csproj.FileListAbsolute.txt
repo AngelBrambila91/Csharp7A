@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.exe
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.deps.json
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.dll
+E:\C#_Projects\C#7A\Csharp7A\Convertions\bin\Debug\netcoreapp3.1\Convertions.pdb
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.dll
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.pdb
+E:\C#_Projects\C#7A\Csharp7A\Convertions\obj\Debug\netcoreapp3.1\Convertions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb
+E:\C#_Projects\C#7A\Csharp7A\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.genruntimeconfig.cache

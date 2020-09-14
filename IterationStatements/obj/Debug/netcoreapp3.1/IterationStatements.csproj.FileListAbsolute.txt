@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.exe
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.deps.json
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.dll
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\bin\Debug\netcoreapp3.1\IterationStatements.pdb
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.dll
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.pdb
+E:\C#_Projects\C#7A\Csharp7A\IterationStatements\obj\Debug\netcoreapp3.1\IterationStatements.genruntimeconfig.cache
