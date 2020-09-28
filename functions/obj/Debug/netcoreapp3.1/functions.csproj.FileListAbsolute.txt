@@ -1,0 +1,13 @@
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.exe
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.deps.json
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.dll
+E:\C#_Projects\C#7A\Csharp7A\functions\bin\Debug\netcoreapp3.1\functions.pdb
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.dll
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.pdb
+E:\C#_Projects\C#7A\Csharp7A\functions\obj\Debug\netcoreapp3.1\functions.genruntimeconfig.cache

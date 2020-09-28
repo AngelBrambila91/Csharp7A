@@ -1,0 +1,16 @@
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.exe
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.deps.json
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.dll
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\PeopleApp.pdb
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\Libraries.dll
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\bin\Debug\netcoreapp3.1\Libraries.pdb
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.csproj.CopyComplete
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.dll
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.pdb
+E:\C#_Projects\C#7A\Csharp7A\PeopleApp\obj\Debug\netcoreapp3.1\PeopleApp.genruntimeconfig.cache
