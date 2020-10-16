@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person FName="Santiago">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+  <Person FName="Samy">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+  <Person FName="Luis">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+  <Person FName="Brunito">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+  <Person FName="Suavecito">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+  <Person FName="FlyingPig">
+    <DateOfBirth>2000-01-01T00:00:00</DateOfBirth>
+  </Person>
+</ArrayOfPerson>

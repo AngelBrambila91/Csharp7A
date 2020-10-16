@@ -24,7 +24,7 @@ namespace Libraries
                     $"{value} is not a primary color." +
                     "Choose from : red, green, blue");
             }
-        } 
+        }
         }
 
         private string secondName;

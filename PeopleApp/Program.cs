@@ -95,6 +95,60 @@ namespace PeopleApp
                 sam.FavoriteColor = "Red";
                 WriteLine($"Sam's favorite Color is {sam.FavoriteColor}");
             #endregion
+
+            #region Using formal Delegates
+                luis.Shout = Luis_Shout;// delegate assignation
+                sam.Shout = Luis_Shout;
+                luis.Poke();
+                luis.Poke();
+                luis.Poke();
+                luis.Poke();
+                sam.Poke();
+                sam.Poke();
+                sam.Poke();
+                sam.Poke();
+            #endregion
+
+            #region Interfaces
+                // IComparable
+                // IComparer
+                // IDisposable
+                // IFormatter
+                // ...
+                Person [] people =
+                {
+                    new Person { Name = "Ricardo" },
+                    new Person { Name = "Eddie" },
+                    new Person { Name = "Axel" },
+                    new Person { Name = "Chumel" },
+                };
+
+                WriteLine("Initial list of people");
+                foreach (var person in people)
+                {
+                    WriteLine(person.Name);
+                }
+
+                WriteLine("Using IComparable implemented method");
+                Array.Sort(people);
+                foreach (var person in people)
+                {
+                    WriteLine(person.Name);
+                }
+
+            #endregion
+        }
+
+        private static void Luis_Shout(object sender , EventArgs e)
+        {
+            Person i = (Person)sender;
+            WriteLine($"{i.Name} is this angry : {i.AngerLevel}");
+        }
+
+        private static void Sam_Shout(object sender , EventArgs e)
+        {
+            Person i = (Person)sender;
+            WriteLine($"{i.Name} is this angry : {i.AngerLevel}");
         }
     }
 }

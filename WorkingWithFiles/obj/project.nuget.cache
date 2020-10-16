@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4ELGpT+0QiR/H+ZNA1q+CGwVFlP9SfrAuQFk8gky28hPs2u7ISmNyWM2NBYErWNpncY4wwiHIQLFQc7jaEXng==",
+  "success": true,
+  "projectFilePath": "E:\\C#_Projects\\C#7A\\Csharp7A\\WorkingWithFiles\\WorkingWithFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AORUS_DM\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

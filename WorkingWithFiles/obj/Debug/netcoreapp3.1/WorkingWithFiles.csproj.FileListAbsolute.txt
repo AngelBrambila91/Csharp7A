@@ -1,0 +1,15 @@
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.exe
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.deps.json
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.dll
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.dll
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.pdb
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.genruntimeconfig.cache
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#_Projects\C#7A\Csharp7A\WorkingWithFiles\obj\Debug\netcoreapp3.1\WorkingWithFiles.csproj.CopyComplete

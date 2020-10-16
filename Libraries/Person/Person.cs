@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace Libraries
 {
-    public partial class Person
+    public partial class Person : IComparable<Person>
     {
         /*
         Fields
@@ -21,6 +21,10 @@ namespace Libraries
         public readonly string HomePlanet = "Earth";
         public readonly DateTime Instantiated;
         public DefaultThings defaultOccurrence;
+
+        public EventHandler Shout;
+        public int AngerLevel;
+
         /*
         Methods
             Constructor
@@ -74,6 +78,23 @@ namespace Libraries
             x++;
             y++;
             z++;
+        }
+
+        public void Poke()
+        {
+            AngerLevel++;
+            if(AngerLevel >= 3)
+            {
+                if(Shout != null)
+                {
+                    Shout(this, EventArgs.Empty);
+                }
+            }
+        }
+
+        public int CompareTo(Person other)
+        {
+            return Name.CompareTo(other.Name);
         }
     }
 }
