@@ -1,0 +1,16 @@
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.exe
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.deps.json
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.runtimeconfig.json
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.runtimeconfig.dev.json
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.dll
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoApp.pdb
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoLib.dll
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\bin\Debug\netcoreapp3.1\CryptoLib.pdb
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.csproj.CopyComplete
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.dll
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.pdb
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoApp\obj\Debug\netcoreapp3.1\CryptoApp.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.deps.json
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.dll
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.pdb
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.csprojAssemblyReference.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.AssemblyInfoInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.AssemblyInfo.cs
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.csproj.CoreCompileInputs.cache
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.dll
+E:\C#_Projects\C#7A\Csharp7A\Encrypt\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.pdb
