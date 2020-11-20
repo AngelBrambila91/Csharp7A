@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/SelectionStatements/bin/Debug/netcoreapp3.1/SelectionStatements.dll",
+            "program": "${workspaceFolder}/WorkingWithEFcore/bin/Debug/netcoreapp3.1/WorkingWithEFcore.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/SelectionStatements",
-            "console": "externalTerminal",
+            "cwd": "${workspaceFolder}/WorkingWithEFcore",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {

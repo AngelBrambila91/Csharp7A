@@ -9,6 +9,12 @@
 
 namespace CryptoLib
 {
+    // public class User
+    // {
+    //     public string Name { get; set; }
+    //     public string Salt { get; set; }
+    //     public string SaltedHashedPassword { get; set; }
+    // }
     public static class Protector
     {
         /*
@@ -63,6 +69,50 @@ namespace CryptoLib
             }
             return Encoding.Unicode.GetString(plainBytes);
         }
+
+        #region Sha 256
+            private static Dictionary<string, User> Users = new Dictionary<string, User>();
+
+            public static User Register(string username, string password)
+            {
+                // generate random salt
+                var rng = RandomNumberGenerator.Create();
+                var saltBytes = new byte [16];
+                rng.GetBytes(saltBytes);
+                var saltText = Convert.ToBase64String(saltBytes);
+
+                // hash the password
+                var saltedhashedpassword = SaltAndHashPassword(password, saltText);
+                var user = new User
+                {
+                    Name = username,
+                    Salt = saltText,
+                    SaltedHashedPassword = saltedhashedpassword
+                };
+                Users.Add(user.Name , user);
+                return user;
+            }
+
+            public static bool CheckPassword(string username , string password)
+            {
+                if(!Users.ContainsKey(username))
+                {
+                    return false;
+                }
+                var user = Users[username];
+                // re-generate hashed password
+                var saltedhashedpassword = SaltAndHashPassword(password, user.Salt);
+                return (saltedhashedpassword == user.SaltedHashedPassword);
+
+            }
+
+        private static string SaltAndHashPassword(string password, string salt)
+        {
+            var sha = SHA256.Create();
+            var saltedPassword = password + salt;
+            return Convert.ToBase64String(sha.ComputeHash(Encoding.Unicode.GetBytes(saltedPassword)));
+        }
+        #endregion
 
     }
 }
