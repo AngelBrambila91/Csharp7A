@@ -9,7 +9,7 @@ namespace WorkingWithEFcore
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             string path = System.IO.Path.Combine(System.Environment.CurrentDirectory, "Northwind.db");
-            optionsBuilder.UseSqlite($"Filename = {path}");
+            optionsBuilder.UseLazyLoadingProxies().UseSqlite($"Filename = {path}");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -24,6 +24,10 @@ namespace WorkingWithEFcore
             modelBuilder.Entity<Product>()
             .Property(p => p.Cost)
             .HasConversion<double>();
+
+            // global filter
+            modelBuilder.Entity<Product>()
+            .HasQueryFilter(p => !p.Discontinued);
         }
 
     }
